@@ -42,6 +42,7 @@ Then, follow the steps on the tutorial and slides.
 	|-- /html ..................... html pages
 	.gitignore .................... git ignore directives
 	GruntFile.js .................. grunt file
+	package.json .................. grunt package information
 	README.md ..................... readme file
 
 
@@ -55,7 +56,7 @@ Generate a local development build
 
 If you need more info, just contact me at:
 	
-	[kevin-blanco.com](http://kevin-blanco.com) 
+	http://kevin-blanco.com
 	me@kevin-blanco.com
 	Skype: kevinblancok2
 	@KevinBlancoZ
