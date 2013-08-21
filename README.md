@@ -10,13 +10,21 @@
 
 This small repository shows the very basics about getting started with Grunt Javascript task runner. Follow the steps on the tutorial video and use this code as a base. The Slides shows important information as well.
 
-Fist install NodeJS from the website.
+First install NodeJS from the website.
 
-    [nodejs.org](http://nodejs.org) 
+    http://nodejs.org 
 
 Then, install the Grunt command line interface.
 
     npm install -g grunt-cli
+
+Then, get this code and run
+
+    npm install
+
+Last, run the defaul task
+
+    grunt run
 
 Then, follow the steps on the tutorial and slides.
 
